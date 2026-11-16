@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400">
+  <defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#ffedd5"/><stop offset="100%" stop-color="#fed7aa"/>
+    </linearGradient>
+  </defs>
+  <rect width="600" height="400" fill="url(#bg1)"/>
+  <circle cx="510" cy="70" r="45" fill="#fbbf24" opacity="0.85"/>
+  <rect x="65" y="75" width="470" height="230" rx="18" fill="#065f46" stroke="#92400e" stroke-width="10"/>
+  <text x="300" y="155" font-family="Arial, sans-serif" font-size="26" font-weight="bold" fill="#fef3c7" text-anchor="middle">CHÚC MỪNG NGÀY 20/11</text>
+  <text x="300" y="195" font-family="Arial, sans-serif" font-size="18" fill="#a7f3d0" text-anchor="middle">Lớp 4/2 • Kính tặng Cô Trần Thị Nhung</text>
+  <text x="300" y="255" font-size="40" text-anchor="middle">⛵ 🌻 📚 ✨</text>
+  <text x="300" y="355" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#9a3412" text-anchor="middle">Video Lời Chúc &amp; Hứa Chăm Ngoan — Lê Nam Phong</text>
+</svg>
